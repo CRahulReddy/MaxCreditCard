@@ -1,0 +1,7 @@
+com\max\maxcreditcard\model\Applicant.class
+com\max\maxcreditcard\controller\MaxCreditCardController.class
+com\max\maxcreditcard\service\MaxCreditCardService.class
+com\max\maxcreditcard\dao\MaxCreditCardDAO.class
+com\max\maxcreditcard\model\Address.class
+com\max\maxcreditcard\model\CreditCard.class
+com\max\maxcreditcard\model\Customer.class

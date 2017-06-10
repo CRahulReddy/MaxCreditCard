@@ -1,0 +1,22 @@
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #425F9C;
+}
+
+.carousel-inner>.item> img{
+    width: 90%;
+    height: 49%;
+}
+.hr{
+   /* display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #3E5C9A;
+    margin: 3em 0;
+    padding: 0
+        */
+        
+        border-color: #3E5C9A;
+background-color: #3E5C9A;
+
+}
